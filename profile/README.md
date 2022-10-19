@@ -1,11 +1,11 @@
 # X-Letter
 ## About XLetter
      
-    XLetter is a Media DAO. It’s a participation-based web3 web novel DAO where stories are unfolded reflecting the reader's preference through a voting system.
+XLetter is a Media DAO. It’s a participation-based web3 web novel DAO where stories are unfolded reflecting the reader's preference through a voting system.
     
 ## Strength
     
-    XLetter is a Media DAO. It’s a participation-based web3 web novel DAO where stories are unfolded reflecting the reader's preference through a voting system. In the case of traditional DAOs, the value of governance gradually declines with time, as there is no clear motivation for users to continue participating. In this sense, XLetter is different from other DAOs as participants are motivated to engage in the DAO based on the content of a web novel. This way, our platform increases the sustainability of the DAO by utilizing the web novel as an incentive medium.
+XLetter is a Media DAO. It’s a participation-based web3 web novel DAO where stories are unfolded reflecting the reader's preference through a voting system. In the case of traditional DAOs, the value of governance gradually declines with time, as there is no clear motivation for users to continue participating. In this sense, XLetter is different from other DAOs as participants are motivated to engage in the DAO based on the content of a web novel. This way, our platform increases the sustainability of the DAO by utilizing the web novel as an incentive medium.
     
 Additionally, the implementation of DAOs in XLetter supports the creators by guaranteeing the writer’s income. Since there is a base Membership fee, a minimum income is guaranteed for the writer, which will become a motivation to continuously create high-quality content leading to the virtuous cycle of the platform.
     
@@ -14,20 +14,21 @@ Finally, unlike other existing web novel platforms in Web2, XLetter increases ef
 ## Main ( XL Explorer, XL DAO, Membership NFT)
   
     
-    XLetter has three main functions: XL Explorer, XL DAO, and Membership NFT.
+XLetter has three main functions: XL Explorer, XL DAO, and Membership NFT.
    
-    The first main function, XL Explorer, provides an environment to create DAOs and a ranking of DAOs by collection. After paying a certain amount of XLT, readers get the corresponding Membership NFT, which allows them to participate directly in the DAO by exercising their influence on the story.
+The first main function, XL Explorer, provides an environment to create DAOs and a ranking of DAOs by collection. After paying a certain amount of XLT, readers get the corresponding Membership NFT, which allows them to participate directly in the DAO by exercising their influence on the story.
     
-    The second main function, XL DAO, is the DAO by collection, which is a participation based Media DAO where the story is unfolded reflecting the reader's preference through voting. The readers can access the chapters and vote on the direction of the story line.
+The second main function, XL DAO, is the DAO by collection, which is a participation based Media DAO where the story is unfolded reflecting the reader's preference through voting. The readers can access the chapters and vote on the direction of the story line.
    
-    The final function is the XLetter Membership NFT. As a governance NFT to participate in the DAO, the Membership NFT is divided in 3 levels depending on the amount of XLT paid in XL Explorer. Each membership level has a different influence on the story’s development.
+The final function is the XLetter Membership NFT. As a governance NFT to participate in the DAO, the Membership NFT is divided in 3 levels depending on the amount of XLT paid in XL Explorer. Each membership level has a different influence on the story’s development.
     
 ## XLT Token
     
-    XLT Token is the default token for all projects used in XLetter. XLT tokens are exchangeable with KLAY, and are used in two ways: to purchase web novel episodes and to have the voting rights to decide the story development by participating in the XLetter DAO.
+XLT Token is the default token for all projects used in XLetter. XLT tokens are exchangeable with KLAY, and are used in two ways: to purchase web novel episodes and to have the voting rights to decide the story development by participating in the XLetter DAO.
     
 
-# Demo Video 'https://www.youtube.com/watch?v=Znw2hw_RjJA'
+# Demo Video 
+[Link](https://www.youtube.com/watch?v=Znw2hw_RjJA)
 
 ## Main Home
 
